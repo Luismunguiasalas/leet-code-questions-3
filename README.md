@@ -11,3 +11,4 @@ my solutions to 10 leet code problems. Question name and question explanation in
 1342 number of steps to reduce a number to zero
 1528 shuffle string
 1281 Subtract the Product and Sum of Digits of an Integer
+1684 count the number of consistent strings
