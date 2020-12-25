@@ -9,3 +9,5 @@ my solutions to 10 leet code problems. Question name and question explanation in
 771 jewels and stones
 1603 design parking system
 1342 number of steps to reduce a number to zero
+1528 shuffle string
+1281 Subtract the Product and Sum of Digits of an Integer
